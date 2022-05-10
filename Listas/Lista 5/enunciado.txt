@@ -1,0 +1,14 @@
+Lista 5:
+
+- Exercícios cap. 2 do Gentle:
+  -> 2.1 (certificados): exercícios 1 e 2
+  -> 2.2 (forma padrão): exercício 1
+  -> 2.3 (iteração simplex): exercício 1
+  -> 2.4 (forma canônica): exercícios 1, 2 e 5
+
+- Implementações:
+  -> forma padrão
+  -> iteração simplex
+  -> forma canônica
+
+Entrega dia 25/04, podendo fazer em dupla
